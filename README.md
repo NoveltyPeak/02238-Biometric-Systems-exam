@@ -12,3 +12,7 @@
 
 <img width="889" alt="image" src="https://github.com/NoveltyPeak/02238-Biometric-Systems-exam/assets/72916303/520e2819-e053-478e-9efd-472c59668e1a">
 <img width="374" alt="image" src="https://github.com/NoveltyPeak/02238-Biometric-Systems-exam/assets/72916303/06735b43-56e5-4e10-ada2-986da7fd7b35">
+
+
+# IMPORTANT!
+In compliance with the non-disclosure agreement for the course 02238 Biometric Systems the folder "Subjects" and all the data therein will be deleted within a week after completion of the course. All data in this repository is only to be used in relation to the course. I do not own any of the data in repository. 
