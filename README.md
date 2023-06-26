@@ -15,4 +15,4 @@
 
 
 # IMPORTANT!
-In compliance with the non-disclosure agreement for the course 02238 Biometric Systems the folder "Subjects" and all the data therein will be deleted within a week after completion of the course. All data in this repository is only to be used in relation to the course. I do not own any of the data in repository. 
+In compliance with the non-disclosure agreement for the course 02238 Biometric Systems the folder "Subjects" and all the data therein will be deleted within a week after completion of the course. All data in this repository is only to be used in relation to the course. I do not own any of the data in repository. (Updated 26/06/2023) 
