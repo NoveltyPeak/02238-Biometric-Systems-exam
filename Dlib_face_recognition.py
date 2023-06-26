@@ -15,12 +15,12 @@ if len(sys.argv) != 1:  #Changed to 1 from 4. Can be changed back if you want to
         "    http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2")
     exit()
 
-# Predictor_path and face_rec_model_path paths is the downloaded files from line 11-12. It has then been extracted to .dat from .bz2. 
+# Predictor_path and face_rec_model_path paths is the downloaded files from line 14-15. It has then been extracted to .dat from .bz2. 
 predictor_path = "C:\\Users\\krist\\Downloads\\shape_predictor_68_face_landmarks.dat"
 face_rec_model_path = "C:\\Users\\krist\\Downloads\\dlib_face_recognition_resnet_model_v1.dat"
 faces_folder_path = "C:\\Users\\krist\\OneDrive\\Biometric systems\\Subjects\\100\\AM"
 
-# Load all the models we need: a detector to find the faces, a shape predictor to find face landmarks so we can precisely localize the 
+# Loads all the models needed: a detector to find the faces, a shape predictor to find face landmarks that can precisely localize the 
 # face, and finally the face recognition model.
 detector = dlib.get_frontal_face_detector()
 sp = dlib.shape_predictor(predictor_path)
